@@ -1,0 +1,45 @@
+header {
+    Text-align: center;
+    margin-bottom: 1.5rem;
+    font-family: "Barriecito", system-ui;
+}
+
+.card {
+    background: rgb(89, 147, 194);
+    max-width: 333px;
+    margin: 0 auto;
+    padding: 2rem;
+    border-radius: 11px;
+    text-align: center;
+}
+p {
+    font-family: "Funnel Display", sans-serif;
+}
+.card img {
+    max-width: 100%;
+    border-radius: 11px;
+    margin-bottom: 1rem;
+}
+.button {
+    display: inline-block;
+    padding: .5rem;
+    background: black;
+    border-radius: 11px;
+    color: white;
+    text-decoration: none;
+}
+
+button {
+    display: inline-block;
+    padding: .5rem;
+    background: black;
+    border-radius: 11px;
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    margin-top: 1.5rem;
+    font-size: x-small;
+}
